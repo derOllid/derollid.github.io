@@ -9,3 +9,8 @@ Am Anfang war Anakin Skywalker, Alias Darth Vader, ein Junge mit einer Gabe. Dad
 * Lichtschwert
 * Maske und Umhang
 
+Ein Zitat der Jedi ist:
+
+> Möge die Macht mit dir sein.
+> Erliege niemals der dunklen Seite der Macht.
+
