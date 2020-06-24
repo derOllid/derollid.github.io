@@ -14,3 +14,5 @@ Ein Zitat der Jedi ist:
 > Möge die Macht mit dir sein.
 > Erliege niemals der dunklen Seite der Macht.
 
+<img src="https://de.wikipedia.org/wiki/Figuren_aus_Star_Wars#/media/Datei:Star_Wars_@_the_Discovery_Science_Center_-_Darth_Vader_(7034250885).jpg"/>
+
